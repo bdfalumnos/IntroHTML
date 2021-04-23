@@ -1,0 +1,41 @@
+Elementos que cierran p
+address
+article
+aside
+blockquote
+details
+div
+dl
+fieldset
+figcaption
+figure
+footer
+form
+h1
+h2
+h3
+h4
+h5
+h6
+header
+hgroup
+hr
+main
+menu
+nav
+ol
+p
+pre
+section
+table
+ul
+El elemento p también cierra si no hay más contenido en el elemento padre, el cual no es:
+
+a
+audio
+del
+ins
+map
+noscript
+video
+custom element autónomo

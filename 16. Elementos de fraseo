@@ -1,0 +1,66 @@
+Elementos de fraseo
+Representa el texto de un documento y los elementos que lo modifican.
+
+No implica ninguna jerarquía ni estructura.
+
+Se puede colocar dentro de otros elementos que si implican estructura; por ejemplo, párrafos, títulos, tablas, etcétera.
+
+Elementos que Son Contenido de Fraseo
+a
+abbr
+area (si es descendiente de map)
+audio
+b
+bdi
+bdo
+br
+button
+canvas
+cite
+code
+data
+datalist
+del
+dfn
+em
+embed
+i
+iframe
+img
+input
+ins
+kbd
+label
+link (si se permite dentro de body)
+map
+mark
+math de MathML
+meta (si el atributo itemprop está presente)
+meter
+noscript
+object
+output
+picture
+progress
+q
+ruby
+s
+samp
+script
+select
+slot
+small
+span
+strong
+sub
+sup
+svg de SVG
+template
+textarea
+time
+u
+var
+video
+wbr
+custom element autónomo
+texto

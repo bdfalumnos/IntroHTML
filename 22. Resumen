@@ -1,0 +1,42 @@
+Resumen
+El lenguaje SGML permite describir información usando etiquetas.
+
+HTML es un conjunto de etiquetas para SGML.
+
+Un documento SGML consta de:
+
+Doctype
+
+Texto
+
+Referencias de Caracteres
+
+Comentarios
+
+Elementos con Contenido
+
+Elementos sin Contenido
+
+Un elemento padre tiene elementos hijos en su contenido.
+
+Se estudiaron los siguientes elementos:
+
+html
+
+head
+
+meta
+
+title
+
+body
+
+h1
+
+p
+
+footer
+
+Puedes crear los íconos de tu sitio con GIMP.
+
+Puedes crear tu sitio en tu computadora con Visual Studio Code.
